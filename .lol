@@ -1,0 +1,4 @@
+.lava
+.lol
+.mal
+/deal
